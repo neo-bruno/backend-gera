@@ -1,0 +1,5 @@
+npm i dotenv cors express
+npm i pg pg-hstore sequelize
+npm i nodemon
+npm i bcryptjs
+npm i jsonwebtoken
